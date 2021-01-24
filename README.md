@@ -1,4 +1,4 @@
-# TUSH Drybox Spacer
+# TUSH Rack Spacer
 
 This is a spacer that fits onto the 5/16" rod in my 20QT Sterilite dry box.
 
